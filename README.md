@@ -1,2 +1,2 @@
-# talend-components-examples
-Talend components built with Talend components kit (aka tacokit)
+# Talend components examples
+This repository contains some examples of components using tacokit - Talend components kit.
